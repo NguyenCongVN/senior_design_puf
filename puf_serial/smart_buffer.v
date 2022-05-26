@@ -1,26 +1,5 @@
 `timescale 1ns / 1ps
 
-/*
-* Company: Santa Clara University
-* Engineer: Jonathan Trinh
-*
-* Create Date: 02/13/2020 11:09:41 PM
-* Design Name:
-* Module Name: smart_buffer
-* Project Name: Delay-based Physical Unclonable Function Implementation
-* Target Devices: Digilent S7-25, S7-50 (Xilinx Spartan 7)
-* Tool Versions:
-* Description: This buffer stores each bit from each race. It is also in
-*              charge of reset logic.
-*
-* Dependencies:
-*
-* Revision:
-* Revision 0.01 - File Created
-* Additional Comments:
-*
-*/
-
 module smart_buffer(
     clock,
     dataIn,

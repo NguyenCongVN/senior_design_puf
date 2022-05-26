@@ -6,3 +6,12 @@ ucli.key
 simv
 simv.daidir
 *.gz
+db/
+incremental_db/
+output_files/
+.qsys_edit/
+work/
+*.wlf
+*.qpf
+*.qsf
+*.qws

@@ -1,0 +1,71 @@
+E:/GitHub/senior_design_puf/puf_serial/lut_input.v {1 {vlog -work work -stats=none E:/GitHub/senior_design_puf/puf_serial/lut_input.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lut_input
+
+Top level modules:
+	lut_input
+
+} {} {}} E:/GitHub/senior_design_puf/puf_serial/lut_output.v {1 {vlog -work work -stats=none E:/GitHub/senior_design_puf/puf_serial/lut_output.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lut_output
+
+Top level modules:
+	lut_output
+
+} {} {}} E:/GitHub/senior_design_puf/puf_serial/nand_cell.v {1 {vlog -work work -stats=none E:/GitHub/senior_design_puf/puf_serial/nand_cell.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module nand_cell
+
+Top level modules:
+	nand_cell
+
+} {} {}} E:/GitHub/senior_design_puf/puf_serial/scrambler_lfsr.v {1 {vlog -work work -stats=none E:/GitHub/senior_design_puf/puf_serial/scrambler_lfsr.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module scrambler_lfsr
+
+Top level modules:
+	scrambler_lfsr
+
+} {} {}} E:/GitHub/senior_design_puf/puf_serial/top_level_serial.v {1 {vlog -work work -stats=none E:/GitHub/senior_design_puf/puf_serial/top_level_serial.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top_level_serial
+
+Top level modules:
+	top_level_serial
+
+} {} {}} E:/GitHub/senior_design_puf/puf_serial/puf_serial.v {1 {vlog -work work -stats=none E:/GitHub/senior_design_puf/puf_serial/puf_serial.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module puf_serial
+
+Top level modules:
+	puf_serial
+
+} {} {}} E:/GitHub/senior_design_puf/puf_serial/hex_7seg.v {1 {vlog -work work -stats=none E:/GitHub/senior_design_puf/puf_serial/hex_7seg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module hex_7seg
+
+Top level modules:
+	hex_7seg
+
+} {} {}} E:/GitHub/senior_design_puf/puf_serial/inv_cell.v {1 {vlog -work work -stats=none {E:\GitHub\senior_design_puf\puf_serial\inv_cell.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module inv_cell
+
+Top level modules:
+	inv_cell
+
+} {} {}} E:/GitHub/senior_design_puf/puf_serial/led_number.v {1 {vlog -work work -stats=none E:/GitHub/senior_design_puf/puf_serial/led_number.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module led7
+
+Top level modules:
+	led7
+
+} {} {}} E:/GitHub/senior_design_puf/puf_serial/top_level_serial_simple_tb.v {1 {vlog -work work -stats=none E:/GitHub/senior_design_puf/puf_serial/top_level_serial_simple_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top_level_serial_simple_tb
+
+Top level modules:
+	top_level_serial_simple_tb
+
+} {} {}}
